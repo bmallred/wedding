@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"combo",
+				"combos"
+			],
+			[
+				"Calc",
+				"CalcMethod3"
+			],
+			[
+				"Ca",
+				"CalcMethod2"
+			],
+			[
+				"Cal",
+				"CalcMethod1"
+			],
+			[
+				"C",
+				"CalcMethod2"
+			],
+			[
+				"rand",
+				"random_number"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"query",
+				"queryClient"
+			],
+			[
+				"response",
+				"responseId"
+			],
+			[
+				"cie",
+				"clientId"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"clie",
+				"clientId"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"parse",
+				"parse_ini_file"
+			],
+			[
+				"even",
+				"event"
+			],
+			[
+				"fiel",
+				"fieldValue"
+			],
+			[
+				"respon",
+				"responseId"
+			],
+			[
+				"queryRe",
+				"queryResponseFields"
+			],
+			[
+				"gu",
+				"guestsValues"
+			],
+			[
+				"att",
+				"attendanceValues"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-top"
+			],
+			[
+				"t",
+				"text-top"
+			],
+			[
+				"b",
+				"border-image"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"google",
+				"googleapis"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bryan/Projects/nvite2/wedding.css",
+		"/home/bryan/Projects/nvite2/index.html",
+		"/home/bryan/Projects/XfdlMap/XfdlMap/Main.cs",
+		"/home/bryan/Projects/XfdlMap/XfdlMap/bin/Debug/DA638.map",
+		"/home/bryan/Documents/DA638 Road Map.txt",
+		"/home/bryan/Ubuntu One/DA638.xml",
+		"/home/bryan/Ubuntu One/IDA638From.cs",
+		"/home/bryan/Ubuntu One/ParseIniExample.ini",
+		"/home/bryan/Projects/ParseXmlExample.xml",
+		"/home/bryan/Projects/edXml.cs",
+		"/home/bryan/Downloads/DA638.xml",
+		"/home/bryan/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+		"/home/bryan/.config/sublime-text-2/Settings/Session.sublime_session",
+		"/home/bryan/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/bryan/.config/sublime-text-2/Packages/SublimeClang/sublimeclang.py",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/nhfd/Makefile",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/nhfd/nhfd.c",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/nhfd/common.js",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/nhfd/index.html",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/nhfd/index_newlib_Debug.html",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/file_io/file_io.cc",
+		"/home/bryan/.config/sublime-text-2/Packages/C++/010-main()-(main).sublime-snippet",
+		"/home/bryan/Projects/nhfd/Makefile",
+		"/home/bryan/Projects/nhfd/nhfd.c",
+		"/home/bryan/Projects/nhfdl/hello_world.c",
+		"/home/bryan/Projects/nhfdl/nhfd.c",
+		"/home/bryan/Projects/nhfdl/print.h",
+		"/home/bryan/Projects/hfd/print.c",
+		"/home/bryan/Projects/hfd/hfd.c",
+		"/home/bryan/Projects/nhfdl/fread-test.c",
+		"/home/bryan/Projects/cpp/example-007.cpp",
+		"/home/bryan/Projects/cpp/example-004.cpp",
+		"/home/bryan/Projects/cpp/example-002.cpp",
+		"/home/bryan/Projects/cpp/example-001.cpp",
+		"/home/bryan/Projects/cpp/example-005.cpp",
+		"/home/bryan/Projects/cpp/example-006.cpp",
+		"/home/bryan/Projects/cpp/example-003.cpp",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/hello_world/Makefile",
+		"/home/bryan/Downloads/nacl_sdk/pepper_23/examples/hello_world/index.html",
+		"/home/bryan/Downloads/nunit/NUnit-2.6.2/src/ConsoleRunner/nunit-console/Runner.cs",
+		"/home/bryan/Downloads/nunit/NUnit-2.6.2/src/ConsoleRunner/nunit-console/ConsoleUi.cs",
+		"/home/bryan/Projects/nrunner/nrunner.sln",
+		"/home/bryan/Projects/nvite/api/config.ini",
+		"/home/bryan/Projects/nvite/index.html",
+		"/home/bryan/Projects/nvite/api/Database.php",
+		"/home/bryan/Projects/nvite/scripts/lib/modernizr-2.6.2.min.js",
+		"/home/bryan/Downloads/nvite.sql",
+		"/home/bryan/Projects/nvite/api/Response.php",
+		"/home/bryan/Projects/nvite/partials/intro.html",
+		"/home/bryan/Projects/nvite/scripts/controllers.js",
+		"/home/bryan/Projects/nvite/styles/nvite.css",
+		"/home/bryan/Projects/nvite/api/info.php",
+		"/home/bryan/Projects/nvite/crossdomain.xml",
+		"/home/bryan/Projects/nvite/scripts/app.js",
+		"/home/bryan/Projects/nvite/scripts/utilities.js",
+		"/home/bryan/Projects/nvite/styles/mcnaughty.css",
+		"/home/bryan/Projects/mcnaughty/partials/intro.html",
+		"/home/bryan/Projects/mcnaughty/scripts/controllers.js",
+		"/home/bryan/Projects/mcnaughty/partials/api.php",
+		"/home/bryan/Projects/mcnaughty/scripts/services.js",
+		"/home/bryan/Projects/mcnaughty/api/Response.php",
+		"/home/bryan/Projects/mcnaughty/api/Database.php",
+		"/home/bryan/Projects/mcnaughty/config.ini",
+		"/home/bryan/Projects/mcnaughty/scripts/app.js",
+		"/home/bryan/Projects/mcnaughty/styles/mcnaughty.css",
+		"/home/bryan/Projects/mcnaughty/index.html",
+		"/home/bryan/Projects/mcnaughty/crossdomain.xml",
+		"/home/bryan/Projects/mcnaughty/scripts/utilities.js",
+		"/home/bryan/Projects/mcnaughty/.gitignore",
+		"/home/bryan/Projects/mcnaughty/README.md",
+		"/home/bryan/Projects/azucar-fitness/www/index.html",
+		"/home/bryan/Projects/azucar-fitness/www/scripts/app.js",
+		"/home/bryan/Projects/azucar-fitness/www/partials/intro.html",
+		"/home/bryan/Projects/azucar-fitness/www/crossdomain.xml",
+		"/home/bryan/Projects/azucar-fitness/www/styles/azucar-fitness.css",
+		"/home/bryan/Projects/azucar-fitness/www/partials/team.html",
+		"/home/bryan/Projects/azucar-fitness/www/partials/store.html",
+		"/home/bryan/Projects/azucar-fitness/www/robots.txt",
+		"/home/bryan/Projects/azucar-fitness/www/team.html",
+		"/home/bryan/Projects/azucar-fitness/www/humans.txt",
+		"/home/bryan/Projects/azucar-fitness/www/media.html",
+		"/home/bryan/Projects/azucar-fitness/www/sitemap.xml",
+		"/home/bryan/Projects/azucar-fitness/www/scripts/controllers.js",
+		"/home/bryan/Projects/azucar-fitness/www/js/plugins.js",
+		"/home/bryan/Projects/azucar-fitness/www/store.html",
+		"/home/bryan/Projects/azucar-fitness/www/events.html",
+		"/home/bryan/Projects/azucar-fitness/www/partials/events.html",
+		"/home/bryan/Projects/azucar-fitness/www/partials/channel.html",
+		"/home/bryan/Projects/azucar-fitness/www/scripts/utilities.js",
+		"/home/bryan/Projects/azucar-fitness/www/favicon.ico",
+		"/home/bryan/Projects/azucar-fitness/www/404.html",
+		"/home/bryan/Projects/azucar-fitness/www/Templates/main-template.dwt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<page",
+			"sid=\"IA_TO_A\"",
+			"/globalpage",
+			"olc",
+			"eks",
+			"signitemrefs",
+			"sid=\"IA_",
+			"field sid=\"IA_",
+			"c. DATE",
+			"b. FROM",
+			"TO",
+			"a.  TO",
+			"a. TO",
+			"createNaClModule",
+			"hello",
+			"hello_world",
+			"HELLO_WORLD",
+			"--",
+			"'",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nhfd",
+			"NHFD",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/bryan/Projects/hexmeh/hexmeh.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}
