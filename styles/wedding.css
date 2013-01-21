@@ -102,7 +102,7 @@ td
 
 .ical
 {
-	background-image: url("../images/ical.png");
+	/*background-image: url("../images/ical.png");*/
 	width: 16px; 
 	height: 16px;
 }
