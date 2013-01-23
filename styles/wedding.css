@@ -39,9 +39,11 @@ header a:hover
 
 nav
 {
-	bottom: 0;
 	position: absolute;
-	left: 38%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
 }
 
 nav a
