@@ -11,15 +11,17 @@ body
 
 header
 {
-	height: 20em;
-	padding: 1em;
+	height: 185px;
+	padding: 0em;
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	z-index: 1000;
 	text-align: center;
-	background: url("../images/runner.jpg") repeat;
+	/*background: url("../images/runner.jpg") repeat;*/
+	background: url("../images/banner.png") repeat-x;
+	background-color: #82a54b;
 	box-shadow: 0 10px 50px #000;
 }
 
@@ -35,6 +37,13 @@ header a:hover
 	text-decoration: underline;
 }
 
+nav
+{
+	bottom: 0;
+	position: absolute;
+	left: 38%;
+}
+
 nav a
 {
 	margin: 0 1em;
@@ -47,17 +56,31 @@ section
 	padding-left: 1em;
 	padding-right: 1em;
 	margin: 0 20%;
+	background: url("../images/runner.jpg") repeat;
 	background-color: #fff;
+	border-left: 10px #82a54b solid;
+	border-right: 10px #82a54b solid;
 
 	/* Used for the padding between sections */
-	padding-bottom: 16em;
+	padding-bottom: 600px;
+}
+
+footer
+{
+	padding: 1em;
+	margin: 0 20%;
+	background: url("../images/runner.jpg") repeat;
+	background-color: #fff;
+	border-left: 10px #82a54b solid;
+	border-right: 10px #82a54b solid;
+	text-align: center;
 }
 
 img#banner
 {
-	height: 15em;
+	/*height: 15em;
 	width: 60em;
-	margin: 2em;
+	margin: 2em;*/
 }
 
 h1, h2, h3
@@ -68,7 +91,7 @@ h1, h2, h3
 h2
 {
 	/* Used for the padding between sections */
-	padding-top: 16em;
+	padding-top: 200px;
 }
 
 table
@@ -111,4 +134,23 @@ td
 {
 	font-size: 48px;
 	font-weight: bold;
+}
+
+.daisy
+{
+	position: fixed; 
+	margin: 0.35em;
+	width: 18%;
+}
+
+.red.daisy
+{
+	top: 200px;
+	left: 0;
+}
+
+.orange.daisy
+{
+	bottom: 0;
+	right: 0;
 }
