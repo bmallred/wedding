@@ -122,6 +122,11 @@ td
 	text-align: center;
 }
 
+.bold
+{
+	font-weight: bolder;
+}
+
 .ical
 {
 	width: 16px; 
