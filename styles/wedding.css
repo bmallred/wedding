@@ -157,3 +157,9 @@ td
 	bottom: 0;
 	right: 0;
 }
+
+.notice
+{
+	color: red;
+	font-weight: normal;
+}
